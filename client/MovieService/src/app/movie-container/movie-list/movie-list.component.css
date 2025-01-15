@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.movie-item{
+    width: 300px;
+    border: solid 1px black;
+    padding: 5px;
+    margin: 10px;
+    background-color: #f0eeed;
+}
+
+.poster-image{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.release-year-section{
+    margin-top: 10px;
+}

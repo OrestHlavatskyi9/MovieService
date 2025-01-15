@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|solutionrelative:movieservice.dataaccess\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|solutionrelative:movieservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|solutionrelative:movieservice.dataaccess\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.webapi\\dtos\\moviereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|solutionrelative:movieservice.webapi\\dtos\\moviereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.webapi\\profiles\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|solutionrelative:movieservice.webapi\\profiles\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.webapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|solutionrelative:movieservice.webapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74373F3-1DA0-4B55-B3D6-39176962AB63}|MovieService.DataAccess.DbPopulation\\MovieService.DataAccess.DbPopulation.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess.dbpopulation\\databasepopulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74373F3-1DA0-4B55-B3D6-39176962AB63}|MovieService.DataAccess.DbPopulation\\MovieService.DataAccess.DbPopulation.csproj|solutionrelative:movieservice.dataaccess.dbpopulation\\databasepopulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess\\dataaccessservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|solutionrelative:movieservice.dataaccess\\dataaccessservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess\\properties\\assymblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|solutionrelative:movieservice.dataaccess\\properties\\assymblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess\\dbcontext\\movieservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|solutionrelative:movieservice.dataaccess\\dbcontext\\movieservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\abstractions\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\abstractions\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6C914AF-1608-44E5-9E5C-F49B345079AB}|MovieService.WebAPI\\MovieService.WebAPI.csproj|solutionrelative:movieservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\valueobjects\\releaseyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\valueobjects\\releaseyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\shared\\searchingcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\shared\\searchingcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\valueobjects\\posterimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\valueobjects\\posterimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.core\\coreservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED0C464-7B98-4B95-B244-E468FBD6D3A0}|MovieService.Core\\MovieService.Core.csproj|solutionrelative:movieservice.core\\coreservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|c:\\work\\inforce\\movie service test task\\movieservice\\server\\movieservice.dataaccess\\movieservice.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D45EADFC-A392-4A26-8670-74F73DB0473F}|MovieService.DataAccess\\MovieService.DataAccess.csproj|solutionrelative:movieservice.dataaccess\\movieservice.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 638,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieService.WebAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieService.WebAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:49:27.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieProfile.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Profiles\\MovieProfile.cs",
+              "RelativeDocumentMoniker": "MovieService.WebAPI\\Profiles\\MovieProfile.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Profiles\\MovieProfile.cs",
+              "RelativeToolTip": "MovieService.WebAPI\\Profiles\\MovieProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:37:43.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieReadDto.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Dtos\\MovieReadDto.cs",
+              "RelativeDocumentMoniker": "MovieService.WebAPI\\Dtos\\MovieReadDto.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Dtos\\MovieReadDto.cs",
+              "RelativeToolTip": "MovieService.WebAPI\\Dtos\\MovieReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:34:59.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\Services\\IMovieService.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Services\\IMovieService.cs",
+              "RelativeToolTip": "MovieService.Core\\Services\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:10:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\Configurations\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieService.DataAccess\\Configurations\\MovieConfiguration.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\Configurations\\MovieConfiguration.cs",
+              "RelativeToolTip": "MovieService.DataAccess\\Configurations\\MovieConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:00:06.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MovieService.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\Program.cs",
+              "RelativeToolTip": "MovieService.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:12:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieService.DataAccess\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "MovieService.DataAccess\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:50:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabasePopulator.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess.DbPopulation\\DatabasePopulator.cs",
+              "RelativeDocumentMoniker": "MovieService.DataAccess.DbPopulation\\DatabasePopulator.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess.DbPopulation\\DatabasePopulator.cs",
+              "RelativeToolTip": "MovieService.DataAccess.DbPopulation\\DatabasePopulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:23:49.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataAccessServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\DataAccessServicesRegistration.cs",
+              "RelativeDocumentMoniker": "MovieService.DataAccess\\DataAccessServicesRegistration.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\DataAccessServicesRegistration.cs",
+              "RelativeToolTip": "MovieService.DataAccess\\DataAccessServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:21:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssymblyInfo.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\Properties\\AssymblyInfo.cs",
+              "RelativeDocumentMoniker": "MovieService.DataAccess\\Properties\\AssymblyInfo.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\Properties\\AssymblyInfo.cs",
+              "RelativeToolTip": "MovieService.DataAccess\\Properties\\AssymblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:32:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieServiceDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\DbContext\\MovieServiceDbContext.cs",
+              "RelativeDocumentMoniker": "MovieService.DataAccess\\DbContext\\MovieServiceDbContext.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\DbContext\\MovieServiceDbContext.cs",
+              "RelativeToolTip": "MovieService.DataAccess\\DbContext\\MovieServiceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:55:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Abstractions\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\Abstractions\\IMovieRepository.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Abstractions\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieService.Core\\Abstractions\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:59:49.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PosterImageUrl.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\ValueObjects\\PosterImageUrl.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\ValueObjects\\PosterImageUrl.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\ValueObjects\\PosterImageUrl.cs",
+              "RelativeToolTip": "MovieService.Core\\ValueObjects\\PosterImageUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:18:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchingCriteria.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Shared\\SearchingCriteria.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\Shared\\SearchingCriteria.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Shared\\SearchingCriteria.cs",
+              "RelativeToolTip": "MovieService.Core\\Shared\\SearchingCriteria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:56:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\Models\\Movie.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieService.Core\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:38:29.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReleaseYear.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\ValueObjects\\ReleaseYear.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\ValueObjects\\ReleaseYear.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\ValueObjects\\ReleaseYear.cs",
+              "RelativeToolTip": "MovieService.Core\\ValueObjects\\ReleaseYear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:21:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieService.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.WebAPI\\appsettings.json",
+              "RelativeToolTip": "MovieService.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T14:08:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoreServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\CoreServicesRegistration.cs",
+              "RelativeDocumentMoniker": "MovieService.Core\\CoreServicesRegistration.cs",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.Core\\CoreServicesRegistration.cs",
+              "RelativeToolTip": "MovieService.Core\\CoreServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:10:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieService.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\MovieService.DataAccess.csproj",
+              "RelativeDocumentMoniker": "MovieService.DataAccess\\MovieService.DataAccess.csproj",
+              "ToolTip": "C:\\Work\\Inforce\\Movie Service test task\\MovieService\\server\\MovieService.DataAccess\\MovieService.DataAccess.csproj",
+              "RelativeToolTip": "MovieService.DataAccess\\MovieService.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T11:41:00.65Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 527,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

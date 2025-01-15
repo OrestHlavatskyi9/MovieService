@@ -1,0 +1,14 @@
+<div class="container">
+    <div *ngIf="movies.length === 0">
+        No movies found.
+    </div>
+    <div *ngFor="let movie of movies" class="movie-item">
+        <h2>{{movie.title}}</h2>
+        
+        <img [src]="movie.posterImageUrl" class="poster-image"/>
+        
+        <div class="release-year-section">
+            Release Year: <i>{{movie.releaseYear}}</i>
+        </div>
+    </div>
+</div>
